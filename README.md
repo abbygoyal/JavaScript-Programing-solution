@@ -1,4 +1,6 @@
-# JavaScript-Programing-solution
+# JavaScript-Programing-solutions
+
+
 
 Sure, I'll provide detailed solutions for each of the tasks you listed:
 

@@ -4,6 +4,8 @@
 
 Sure, I'll provide detailed solutions for each of the tasks you listed:
 
+
+
 1. **Program to find the longest word in a given sentence:**
 ```javascript
 function findLongestWord(sentence) {
